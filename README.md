@@ -1,2 +1,2 @@
 # My-work
-# https://jagannathstat.github.io/My-work/
+https://jagannathstat.github.io/My-work/
